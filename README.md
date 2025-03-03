@@ -1,7 +1,7 @@
 Hi 👋 My name is Lapukhin Maksim
 ================================
 
-Student anв beginning developer
+Student and beginning developer
 -------------------------------
 
 * 🌍  I'm based in Orel
